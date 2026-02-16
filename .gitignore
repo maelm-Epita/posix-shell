@@ -1,0 +1,40 @@
+.cache/*
+*.o
+# lsp
+compile_commands.json
+# autotools
+autom4te.cache/
+configure
+aclocal.m4
+Makefile.in
+Makefile
+config.log
+config.status
+config.h
+install-sh
+missing
+depcomp
+compile
+ltmain.sh
+ar-lib
+configure~
+*.Po
+.deps/*
+.deps
+.dirstamp
+conf53066*
+# tests
+test-driver
+*.log
+*.trs
+__pycache__
+out
+a.txt
+# doxygen
+Doxyfile
+*.dox
+README.md
+html/*
+# gcovr
+*.gcda
+*.gcno
