@@ -1,5 +1,6 @@
 # 42sh
 
+## Sumary
 A shell project written in C.
 
 This project builds a small POSIX-like shell with its own lexer/parser, AST, execution engine, redirections, expansions and a set of builtins.
@@ -90,3 +91,6 @@ Project made by:
 - Clement Vabre
 - Alexandre Coene
 - Jaisy Brahimi
+
+## Image
+<img width="777" height="676" alt="image" src="https://github.com/user-attachments/assets/cc135c34-9e7c-4deb-b05c-4ccba0ee5359" />
