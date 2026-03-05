@@ -91,6 +91,3 @@ Project made by:
 - Clement Vabre
 - Alexandre Coene
 - Jaisy Brahimi
-
-## Image
-<img width="777" height="676" alt="image" src="https://github.com/user-attachments/assets/cc135c34-9e7c-4deb-b05c-4ccba0ee5359" />
