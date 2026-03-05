@@ -1,6 +1,6 @@
 # 42sh
 
-## Sumary
+## Summary
 A shell project written in C.
 
 This project builds a small POSIX-like shell with its own lexer/parser, AST, execution engine, redirections, expansions and a set of builtins.
